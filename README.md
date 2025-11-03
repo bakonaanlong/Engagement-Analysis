@@ -2,7 +2,7 @@
 
 PROJECT TITLE
 
-SOcial Media Engagement Analysis
+Social Media Engagement Analysis
 
 OVERVIEW
 
